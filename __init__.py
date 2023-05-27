@@ -1,1 +1,1 @@
-from .read_dict import ReadExcel
+from .read_excel import ReadExcel
